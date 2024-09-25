@@ -1,0 +1,86 @@
+PDB,uniprot,resolution,kingdom,species,state,Mutation,mainchain,chain_guide,pos_guide,chain_target,pos_target,pos_guide_firstmatch,other,release_year,comment
+4F1N,A7TMA9,3.19,Eukaryota,Vanderwaltozyma polyspora,gRNA,No,"A,B","E,F",1-8,,,,,2012,
+6OON,Q9HCK5,1.9,Eukaryota,Homo sapiens,gRNA,No,A,B,"1-8,15,20-21",,,,,2019,"hAgo4, water pockets, GW182"
+4KRE,Q9UL18,1.7,Eukaryota,Homo sapiens,gRNA,No,A,R,"1-9,19-20",,,,,2013,"hAgo1, endogenous RNA"
+4KRF,Q9UL18,1.75,Eukaryota,Homo sapiens,gRNA,No,A,R,"1-10,21-22",,,,,2013,"hAgo1, let-7 miRNA"
+4KXT,Q9UL18,2.29,Eukaryota,Homo sapiens,gRNA,No,A,B,"1-8,20-21",,,,,2013,hAgo1
+5W6V,Q9UL18,2.83,Eukaryota,Homo sapiens,gRNA,No,A,R,"1-9,20",,,,"B, GW182",2017,"hAgo1, GW182"
+5VM9,Q9H9G7,3.28,Eukaryota,Homo sapiens,gRNA,No,"A,C","B,D","1-10,19-21",,,,,2017,"hAgo3, guide RNA different pos"
+4OLA,Q9UKV8,2.3,Eukaryota,Homo sapiens,gRNA,Yes,A,B,"1-8,21",,,,"A,901-902,Phenol",2012,"hAgo2, Phenol bound, D387S"
+4OLB,Q9UKV8,2.9,Eukaryota,Homo sapiens,gRNA,Yes,A,B,"1-8,21",,,,"A,901-902,TRP",2012,"hAgo2, Tryptophane bound, GW182, D387S"
+4W5N,Q9UKV8,2.9,Eukaryota,Homo sapiens,gRNA,Yes,A,B,"1-7,12-21",,,,"A,901-903,Phenol,904,MG",2014,"hAgo2, D387S"
+4W5O,Q9UKV8,1.8,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,20-21",D,1-9,8,"A,901,MG,902-907,Phenol;B,101,MG,102,PO4;D,101,MG",2014,"hAgo2, D387S, 2-9 seed pairing"
+4W5Q,Q9UKV8,3.1,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,1-18,D,1-9,8,"A,901,MG,902-905,Phenol;B,101,MG;D,101,MG",2014,"hAgo2, D387S, 2-8 seed pairing"
+4W5R,Q9UKV8,2.5,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-9,20-21",D,4-11,10,,2014,"hAgo2, D387S, 2-8 seed pairing, long target"
+4W5T,Q9UKV8,2.5,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-14,20-21",D,1-9,8,,2014,"hAgo2, D387S, 2-7 seed pairing"
+4F3T,Q9UKV8,2.25,Eukaryota,Homo sapiens,gRNA,No,A,R,"1-10,17-20",,,,"A,901-902,Phenol",2017,"hAgo2, miR-20a miRNA"
+5JS1,Q9UKV8,2.5,Eukaryota,Homo sapiens,gRNA,Yes,A,B,"1-9,21",,,,"A,901-902,Phenol,903,MG",2016,"hAgo2, D387S, siRNA"
+5JS2,Q9UKV8,2.95,Eukaryota,Homo sapiens,gRNA,Yes,A,B,1-6,,,,"A,901-902,Phenol,903,PO4,904,MG",2016,"hAgo2, D387S, modified siRNA"
+5KI6,Q9UKV8,2.15,Eukaryota,Homo sapiens,gRNA,Yes,A,B,"1-8,20-21",,,,"A,901-903,Phenol",2016,"hAgo2, D387S, nucleobase modification at position 1"
+5WEA,Q9UKV8,3.12,Eukaryota,Homo sapiens,gRNA,Yes,A,B,1-8,,,,"A,901,Phenol",2018,"hAgo2, D387S, M364A, I365A, helix-7 mutant"
+6N4O,Q9UKV8,2.9,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,C,"1-9,11-18,20-21",D,"1-5,9-16",15,,2019,"hAgo2, Suppl. Paired, D387S, D669A, S824A, S828D, S831D, S834A, miR-122 miRNA"
+6NIT,Q9UKV8,3.8,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,"A,B","C,D","1-8,12-20","E,F","2-9,11, 13-23",20,,2019,"hAgo2, TDMD, 4 mismatches, D387S, D669A, S824A, S828D, S831D, S834A, miR-122 miRNA"
+6MFR,Q9UKV8,3.6,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,"A,B","C,D",1-20,"E,F",2-23,20,,2019,"hAgo2, TDMD, 3 mismatches, 9-11, D387S, D669A, S824A, S828D, S831D, S834A, miR-122 miRNA"
+6MDZ,Q9UKV8,3.4,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,"A,B","C,D",1-20,"E,F",1-23,20,,2019,"hAgo2, TDMD, 2 mismatches, 10-11, D387S, D669A, S824A, S828D, S831D, S834A, miR-122 miRNA"
+6MFN,Q9UKV8,2.5,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,C,1-8,E,"13-19,21-22",19,"A,901,Phenol",2019,"hAgo2, TDMD, HSUR1 target, D387S, D669A, S824A, S828D, S831D, S834A, miR-27a miRNA"
+4Z4F,Q9UKV8,2.8,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-16,20-21",D,1-9,8,"A,901,MG,902-904,Phenol;B,101,MG;D,101,MG",2015,"hAgo2, D387S, t1-DAP"
+4Z4G,Q9UKV8,2.7,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,20-21",D,1-9,8,"A,901,MG,902-905,Phenol;B,101,MG;D,101,MG",2015,"hAgo2, D387S, t1-Inosine"
+4Z4E,Q9UKV8,1.8,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,21",D,1-8,8,"A,901,MG,902-907,Phenol,908,PO4;B,101,MG;D,101,MG",2015,"hAgo2, D387S, t1-U"
+4Z4D,Q9UKV8,1.6,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-18,20-21",D,1-9,8,"A,901,MG,902-908,Phenol;B,101,MG,102-103,Phenol;D,101,MG",2015,"hAgo2, D387S, t1-G"
+4Z4I,Q9UKV8,2.8,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,20-21",D,1-8,8,"A,901,MG,902-904,Phenol;B,101,MG;D,101,MG",2015,"hAgo2, D387S, A481T, t1-G"
+4Z4H,Q9UKV8,2.5,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,20-21",D,1-8,8,"A,901,MG,902-905,Phenol;B,101,MG;D,101,MG",2015,"hAgo2, D387S, A481T, t1-A"
+4Z4C,Q9UKV8,2.3,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,21",D,1-9,8,"A,901,MG,902-906,Phenol,907,PO4;B,101,MG,102,PO4;D,101,MG",2015,"hAgo2, D387S, t1-C"
+6CBD,Q9UKV8,2.2,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,A,B,"1-17,21",C,1-9,8,"A,901-903,TRP,904-905,Phenol;B,101,Phenol,102,MG;C,101,MG",2018,"hAgo2, D387S, Tryptophanes, GW182"
+5T7B,Q9UKV8,2.53,Eukaryota,Homo sapiens,gRNA,Yes,A,R,"1-10,21",,,,"A,901-902,Phenol",2016,"hAgo2, D599N, D671N, 5'-(E)-vinylphosphonate 2'-O-methyl-uridine modified guide, not published"
+7KI3,Q9UKV8,3,Eukaryota,Homo sapiens,gRNA_tRNA,Yes,"A,D","B,E","1-17,22-23","C,F",1-29,28,"A,901,BA;C,901,BA;D,901,BA",2021,"hAgo2, D387S, A824S, D828S, D831S, A834S, Argonaute2:miR-122 bound to HCV RNA"
+5GUH,A8D8P8,2.4,Eukaryota,Bombyx mori,gRNA,No,A,B,"1-5,26-28",,,,"A,901-902,MG",2016,"PIWI-clade, piRNA"
+6KR6,Q9VKM1,2.9,Eukaryota,Drosophila melanogaster,gRNA,No,A,B,1-5,,,,"A,901-903,ZN,904-909,HG,910-914,ZN",2020,"PIWI-clade, piRNA, N-position?"
+7KX7,D5MRY8,3.8,Eukaryota,Ephydatia fluviatilis,gRNA,No,A,B,"1-4,23-24",,,,"A,1001-1002, MG",2021,"PIWI-clade, piRNA"
+7KX9,D5MRY8,3.5,Eukaryota,Ephydatia fluviatilis,gRNA_tRNA,No,A,B,1-23,C,8-23,22,"A,1001-1002, MG",2021,"PIWI-clade, piRNA"
+7SWF,Q9XGW1,3.79,Eukaryota,Arabidopsis thaliana,gRNA_tRNA,Yes,A,B,1-17,D,6-22,20,"A,1001, MG",2022,"plant Ago (AtAgo10), D795A"
+3DLB,Q746M7,2.7,Bacteria,Thermus thermophilus,gDNA,No,"A,B","X,Y",6-10,,,,,2008,
+3DLH,Q746M7,3,Bacteria,Thermus thermophilus,gDNA,No,"A,B","X,Y","1-11,18-21",,,,"A,686-687,MG,688,PGE;B,686-687,ACY;X,22,PO4;Y,2,MG",2008,Better than 3DLB
+3F73,Q746M7,3,Bacteria,Thermus thermophilus,gDNA_tRNA,No,"A,B","C,X","1-11,19-21","H,Y",8-19,18,"A,686,MG;C,22,MG,23,PO4;X,22,MG",2008,"2 mismatches, 10-11 "
+3HXM,Q746M7,3.1,Bacteria,Thermus thermophilus,gDNA_tRNA,No,A,C,"1-10,20-21",Y,11-19,18,"C,30,MG",2009,"20nt target, 2 mismatches, 10-11 "
+3HVR,Q746M7,3.21,Bacteria,Thermus thermophilus,gDNA_tRNA,No,"A,B","C,M",1-16,"D,N",8-19,18,"A,686-688,MG,689,PO4;B,686-688,MG,689,PO4",2009,"19nt target, with MG at cleavage site"
+3HM9,Q746M7,3.3,Bacteria,Thermus thermophilus,gDNA_tRNA,No,A,X,1-16,Y,6-18,18,"A,686-687,MG",2009,"19nt target, like 3HVR but with less MG in experiment"
+3HK2,Q746M7,2.8,Bacteria,Thermus thermophilus,gDNA_tRNA,Yes,"A,B","C,E",1-16,"D,F",4-18,18,"A,686,MG;B,686,MG;C,22,MG;E,22,MG",2009,"D478N, 19nt target"
+3HJF,Q746M7,3.06,Bacteria,Thermus thermophilus,gDNA_tRNA,Yes,A,X,1-16,Y,5-19,18,"X,22,MG",2009,"D546E, 15nt target"
+3HO1,Q746M7,2.6,Bacteria,Thermus thermophilus,gDNA_tRNA,Yes,A,X,"1-12,20-21",Y,1-12,11,"X,22,MG",2009,"D546N, 12nt target"
+4NCA,Q746M7,2.49,Bacteria,Thermus thermophilus,gDNA_tDNA,No,"A,B","C,E",1-16,"G+D,H+F","1-6,10-19",18,"A,701,DT,702,MG;B,701,DT,702-703,MG;C,101,MG;D,101,MG;E,101,MG",2014,"16nt target, with MN, target strand fragmented, positions in chain G are wrong"
+4NCB,Q746M7,2.19,Bacteria,Thermus thermophilus,gDNA_tDNA,No,"A,B","C,E",1-16,"D,H+F",5-19,18,"A,701,DT,702,MG;B,701,DT,702-703,MG;C,101,MG;D,MG,101;E,101,MG",2014,"19nt target, with MG, only one target strand fragmented"
+4N41,Q746M7,2.25,Bacteria,Thermus thermophilus,gDNA_tDNA,No,"A,B","C,E","1-13,20-21","D,F",3-15,14,"B,701,MG;C,101,MG;E,101,MG",2014,15nt target
+4N47,Q746M7,2.82,Bacteria,Thermus thermophilus,gDNA_tDNA,No,A,C,"1-12,20-21",D,1-12,11,"A,701,MG",2014,12nt target
+4N76,Q746M7,2.89,Bacteria,Thermus thermophilus,gDNA_tDNA,No,"A,B","C,E",1-10,"D,F",10-19,18,"B,701-703,MN,704,DT;C,101,MN",2014,"cleaved 19nt target, with heating, with MN"
+4KPY,Q746M7,2.41,Bacteria,Thermus thermophilus,gDNA_tDNA,No,"A,B","C,E",1-16,"N+D,M+F","4-9,10-19",18,"A,701,DT,702-703,MN;B,701,DT,702-703,MN;C,101,MN;E,101,MN",2014,"19nt target, without heating, with MN"
+5XPG,Q746M7,2.8,Bacteria,Thermus thermophilus,gDNA_tRNA,Yes,A,C,1-21,G,4-19,19,"A,701-702,SO4;C,101,MG",2017,"D546N, 6'U7' bulged target"
+5XPA,Q746M7,2.9,Bacteria,Thermus thermophilus,gDNA_tRNA,Yes,A,C,1-21,D,2-19,19,"A,701,MG",2017,"D546N, 9'U10' bulged target"
+5XOU,Q746M7,2.63,Bacteria,Thermus thermophilus,gDNA_tDNA,Yes,"A,B","C,E",1-16,"D,F",4-19,18,"A,701,MG;B,701,MG",2017,"D546N, 7T8 bulged guide, B chain better"
+5XOW,Q746M7,2.9,Bacteria,Thermus thermophilus,gDNA_tRNA,Yes,A,C,1-21,G,3-19,19,"C,701,MG",2017,"D546N, 6'A7' bulged target"
+5XP8,Q746M7,3.1,Bacteria,Thermus thermophilus,gDNA_tDNA,No,A,E+C,"1-17,19-21",F,4-18,17,"A,701-703,MG",2017,4A5 bulged guide
+5XQ2,Q746M7,3.33,Bacteria,Thermus thermophilus,gDNA_tDNA,Yes,"A,B","X+C,E+D","1-17,19-21","Y,F",4-19,18,"X,101,MG;E,101,MG",2017,"D546N, 5A6 bulged target"
+6QZK,WP_045143632.1,3.55,Bacteria,Clostridium butyricum,gDNA_tDNA,No,A,B,1-16,C,(-18)-(-1),-2,"A,801,MG,802-803,FMT;B,101-103,FMT",2019,strange numbering of the target strand
+5AWH,A4WYU7,2,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,B","C,E",1-18,"D,F",1-18,17,"C,101,MG;E,101,MG",2016,
+6D8F,A4WYU7,2.15,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,F","C,H",1-18,"G,J",(-14)-7,5,"A,801-802,MPD,803,ACT;C,101,MG,801-802,MPD;H;101,MG;J,101,MG,102,MPD",2018,2-3 TT bulged target
+6D8A,A4WYU7,2.25,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,F","C,H",1-18,"G,J",(-14)-7,5,"A,801,MPD;C,101,MG;G,101,MPD;F,801-802,MPD,803,ACT;H,101,MG;J,101,MPD",2018,2-3 AA bulged target
+6D95,A4WYU7,1.85,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,F","B,H",1-18,"C,J",(-15)-5,3,"B,101-102,MG;H,101-102,MG",2018,"8,-3, AA non-canonical pair"
+6D92,A4WYU7,1.81,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,F","C,H",1-18,"G,J",(-13)-5,3,"A,801-802,ACT;C,101,MG;F;801-802,ACT;H,101,MG,102,MPD",2018,"3,2, AA non-conical pair"
+6D8P,A4WYU7,2.1,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,B","E,C",1-18,"J,G",(-13)-5,3,"A,801-805,MG,806-817,ACT,818-820,CAC;B,801-804,ACT,805,CAC",2018,Regular match
+6D9L,A4WYU7,2.6,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,F","C,H",1-18,"G,J",(-13)-5,3,"C,101,MG;H,101,MG",2018,"8,-3, GA non-canonical pair"
+6D9K,A4WYU7,2,Bacteria,Rhodobacter sphaeroides,gRNA_tDNA,No,"A,F","C,H",1-18,"G,J",(-13)-5,3,"A,801,MPD,802,ACT;C,101,MG;F,801-802,ACT;H;101,MG,102,MPD",2018,"8,-3, AG non-canonical pair"
+5I4A,H2J4R4,1.95,Bacteria,Marinitoga piezophila,gRNA,No,"A,C","B,D","1-11,20-21",,,,,2016,"5_-hydroxylated guide, 6-11 of the guide are not well resolved"
+5UX0,H2J4R4,3.2,Bacteria,Marinitoga piezophila,gRNA_tDNA,Yes,"A,D","B,E",1-18,"C,F",6-21,20,,2017,"D519A, 5_-hydroxylated guide"
+1YVU,O67434,2.9,Bacteria,Aquifex aeolicus,gRNA,No,A,,,,,,"B,901,CA",2005,"7 selenomethionines, rU8 guide, but disordered"
+2F8T,O67434,3.1,Bacteria,Aquifex aeolicus,apo,No,"A,B",,,,,,"C,1-26,RNA;D,1-24,RNA",2006,RNA dimer bound externally
+2F8S,O67434,3,Bacteria,Aquifex aeolicus,apo,No,"A,B",,,,,,"C,1-22,RNA;D,1-22,RNA",2006,RNA dimer bound externally
+2NUB,O67434,3.2,Bacteria,Aquifex aeolicus,apo,No,A,,,,,,,2007,
+7R8K,A0A2M8J4C7,3.28,Bacteria,Pseudooceanicola lipolyticus,apo,No,A,,,,,,,2022,pseudoapo? SeMet labeled protein
+7R8J,A0A2M8J4C7,2.7,Bacteria,Pseudooceanicola lipolyticus,gDNA,No,A,T,"1-8,14-18",,,,,2022,5' p guide DNA with MG
+7R8H,A0A2M8J4C7,2.54,Bacteria,Pseudooceanicola lipolyticus,gDNA,No,A,T,1-18,,,,,2022,5' p guide DNA
+7R8G,A0A2M8J4C7,2.5,Bacteria,Pseudooceanicola lipolyticus,gDNA,No,A,T,"2-10,13-18",,,,,2022,5' OH guide DNA
+7R8F,A0A2M8J4C7,3.16,Bacteria,Pseudooceanicola lipolyticus,apo,No,A,,,,,,,2022,pseudoapo?
+5G5S,Q58717,2.29,Archaea,Methanocaldococcus jannaschii,apo,No,A,,,,,,"A,1714,MG,1715,TRS",2017,
+5G5T,Q58717,2.85,Archaea,Methanocaldococcus jannaschii,gDNA,No,A,D,"1-8,19-21",,,,"A,1714,MG,1715-1721,SO4",2017,guide not very well resolved
+1U04,Q8U3D2,2.25,Archaea,Pyrococcus furiosus,apo,Yes,A,,,,,,,2004,K5I
+1Z26,Q8U3D2,2.5,Archaea,Pyrococcus furiosus,apo,Yes,A,,,,,,"A,771-773,WO4",2005,K5I
+1Z25,Q8U3D2,2.7,Archaea,Pyrococcus furiosus,apo,Yes,A,,,,,,"A,771,MN",2005,K5I
